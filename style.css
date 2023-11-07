@@ -1,0 +1,42 @@
+.form-control{
+    width:50rem;
+
+}
+.reg-form{
+    display:flex;
+    justify-content: center;
+    margin:5rem;
+    position: sticky;
+    size:20rem;
+    
+   
+}
+.formpad
+{
+    border:2px solid orange;
+   
+    padding:1rem;
+    
+}
+.heading{
+    color:orange;
+    display:flex;
+    justify-content: center;
+}
+.divheading{
+    display:flex;
+    justify-content: center;
+}
+.btn-orange{
+    background-color: orange;
+    width:50rem
+}
+.body{
+    
+    background-repeat: no-repeat;
+    background:transparent;
+    background-size: cover;
+}
+.form-label{
+    color:white;
+}
