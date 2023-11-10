@@ -40,3 +40,20 @@
 .form-label{
     color:white;
 }
+.designtext{
+    background-color: aliceblue;
+    color:black;
+    height:30px;
+    width:40rem;
+    border-radius: .2rem;
+    margin:.1rem;
+}
+.danger{
+    height:2rem;
+    background-color: red;
+    color:white;
+    float:right;
+    position:absolute;
+    border-radius: .2rem;
+    margin-left:18rem;
+}
